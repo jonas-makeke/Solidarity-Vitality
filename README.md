@@ -1,11 +1,6 @@
 # Hi
 ## We are Solidarity-Vitality
 ### Solidarité Vitalité is an organization that focuses on supporting vulnerable people, emphasizing the idea of ​​solidarity and vital well-being.
-
-* Liste 1
-  * Item1
-  * Item2
-  * Item3
  
 ![Image Profil](https://handirect.fr/wp-content/uploads/2016/08/aide-humanitaire.jpg)
 
