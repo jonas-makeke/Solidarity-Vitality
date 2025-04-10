@@ -9,6 +9,6 @@
  <Img alig="center" width="100%" src="https://media.licdn.com/dms/image/v2/D4D22AQHjAukmMasq9w/feedshare-shrink_800/B4DZXbukKyHkAo-/0/1743148175377?e=1747267200&v=beta&t=07JOJymyOQRautrBXuZ9oXQAKpP2m05YSeZfzEYjpmw" />  
 </p>
 <p alig="center">
- <Img alig="center" width="60%"src="https://media.licdn.com/dms/image/v2/D5622AQGTnHLH7U1Lcg/feedshare-shrink_800/B56ZXNtj70GoAg-/0/1742913029182?e=1747267200&v=beta&t=3J4gR3YAyJi26M5jRexMlPxcn70ATF7zwdWywNHosXo" />  
+ <Img alig="center" width="60%"src="https://pbs.twimg.com/media/GmFoaU4WIAE0LDI?format=jpg&name=900x900" />  
 </p>
  
