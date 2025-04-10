@@ -6,7 +6,7 @@
 ![Image Profil]()
 
 <p alig="center">
- <Img alig="center" width="20%" src="https://media.licdn.com/dms/image/v2/D4D22AQHjAukmMasq9w/feedshare-shrink_800/B4DZXbukKyHkAo-/0/1743148175377?e=1747267200&v=beta&t=07JOJymyOQRautrBXuZ9oXQAKpP2m05YSeZfzEYjpmw" />  
+ <Img alig="center" width="60%" src="https://media.licdn.com/dms/image/v2/D4D22AQHjAukmMasq9w/feedshare-shrink_800/B4DZXbukKyHkAo-/0/1743148175377?e=1747267200&v=beta&t=07JOJymyOQRautrBXuZ9oXQAKpP2m05YSeZfzEYjpmw" />  
 </p>
 <p alig="center">
  <Img alig="center" width="50%"src="https://vm.tiktok.com/ZMB4PGsE8/" />  
