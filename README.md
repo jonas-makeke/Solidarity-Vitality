@@ -1,7 +1,7 @@
-# Hi i'm Jonas Makeke Bashabasha
+Hi i'm Jonas Makeke Bashabasha
 ## Web developer, Blockchain enthusiast, C R at project catalyst, moderator of proposals, Designer, Agronomist and Member of StakpoolGoma
 
-### ardano/Intersect Community Member: He is a paying individual member of Intersect and participates in Project Catalyst as a level 1 and 2 project evaluator within the Cardano ecosystem.
+### ardano/Intersect Community Member: I'm a paying individual member of Intersect and participates in Project Catalyst as a level 1 and 2 project evaluator within the Cardano ecosystem.
  
 ![Image Profil](https://vm.tiktok.com/ZMB4PGsE8/)
 
